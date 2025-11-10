@@ -85,10 +85,6 @@ A mental well-being support platform integrating chat, progress tracking, and sa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinijayaprabhu&layout=compact&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varshinijayaprabhu&theme=radical&hide_border=false" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me  
