@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=varshinijayaprabhu)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=varshinijayaprabhu&theme=radical)](https://git.io/streak-stats)
 
 # 👋 Hi there, I'm Varshini Jayaprabhu!  
 
