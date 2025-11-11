@@ -7,7 +7,7 @@
 
 ---
 
-##💬 About Me  
+## 💬 About Me  
 
 -  Currently exploring **Machine Learning, AI, and Data Engineering**  
 -  Working on projects like **ForecastIQ**, **ATS**, and **AQI Insight**  
