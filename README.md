@@ -7,14 +7,14 @@
 
 ---
 
-## 🌸 About Me  
+##💬 About Me  
 
-- 🎓 Currently exploring **Machine Learning, AI, and Data Engineering**  
-- 💻 Working on projects like **ForecastIQ**, **ATS**, and **AQI Insight**  
-- 🧠 Interested in **Explainable AI**, **Climate Analytics**, and **Resume Intelligence Systems**  
-- 🌱 Learning **ReactJS**, **Flask**, and **Cloud Deployment (AWS, Streamlit)**  
-- 💬 Ask me about **Machine Learning**, **Python**, **Streamlit**, or **End-to-End AI Apps**  
-- ⚡ Fun fact: I love mixing creativity, design, and data to tell meaningful stories.
+-  Currently exploring **Machine Learning, AI, and Data Engineering**  
+-  Working on projects like **ForecastIQ**, **ATS**, and **AQI Insight**  
+-  Interested in **Explainable AI**, **Climate Analytics**, and **Resume Intelligence Systems**  
+-  Learning **ReactJS**, **Flask**, and **Cloud Deployment (AWS, Streamlit)**  
+-  Ask me about **Machine Learning**, **Python**, **Streamlit**, or **End-to-End AI Apps**  
+-  Fun fact: I love mixing creativity, design, and data to tell meaningful stories.
 
 ---
 
